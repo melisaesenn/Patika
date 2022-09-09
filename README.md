@@ -1,2 +1,2 @@
 # Patika
-Bu repository Patika.dev kurslarındaki proje ve cevapları içermektedir
+Bu repository aldığım Patika.dev kurslarının proje ve cevaplarını içermektedir
