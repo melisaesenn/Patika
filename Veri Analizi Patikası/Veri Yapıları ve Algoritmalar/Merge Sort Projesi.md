@@ -17,3 +17,7 @@
 2. Big-O gösterimini yazınız.
 
     Cevap: n tane sayı içeren bir sayı dizisi olduğunu kabul edelim. Bu n sayı içeren dizinin merge sort için best, average ve worst case durumları aynıdır. Merge sort için time comlexity O($n.log(n)$)'dir.
+
+## Patika Profilim
+
+[Patika linki](https://app.patika.dev/melisaesenn)
